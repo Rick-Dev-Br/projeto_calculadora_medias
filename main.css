@@ -1,11 +1,11 @@
-* {
+* { /* esse comando com o box-sizinha border box + padding0; + margin 0; servem para resetar o padrão do navegador */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;
 }
 
-body {
+body { /* tudo que está no body será alterado */
     background-color: #E7E7E7;
     padding-top: 100px;
 }

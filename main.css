@@ -11,7 +11,7 @@ body { /* tudo que está no body será alterado */
 }
 
 header {
-    display: flex;
+    display: flex; /* Facilita a criação de layouts responsivos. */
     align-items: center;
     margin-bottom: 40px;
 }
